@@ -29,7 +29,8 @@ body {
 .text {
     padding: 22px 10px;
 }
-.text h2{
+.text h1{
+    font-size: 21px;
     color: hsl(218, 44%, 22%);
 }
 .text p{
