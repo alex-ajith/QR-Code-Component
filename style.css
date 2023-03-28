@@ -30,10 +30,10 @@ body {
     padding: 22px 10px;
 }
 .text h1{
+    font-size: 18px;
     color: hsl(218, 44%, 22%);
 }
 .text p{
-    font-size: 15px;
     padding-top: 15px;
     color: hsl(220, 15%, 55%);
 }
