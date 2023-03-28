@@ -30,11 +30,8 @@ body {
 .text {
     padding: 22px 10px;
 }
-.text {
+.text h2{
     color: hsl(218, 44%, 22%);
-}
-.maintext {
-    font-size: 21px;   
 }
 .text p{
     padding-top: 15px;
